@@ -5,7 +5,7 @@ This document contains hardware requirements, instuctions, and software for recr
 ![](https://kadeksatriadi.com/wp-content/uploads/2022/03/tangible_globe_AR.png)
 
 
-# Hardware Requirements
+# Hardware 
 - 3D printer or Tangible globe
 - Vicon/Qualisys/Optitrack system
 - HoloLens 2
@@ -13,9 +13,10 @@ This document contains hardware requirements, instuctions, and software for recr
 - Electronic components as per the BOM on [Tangible Globe Assembly Intruction](https://github.com/KadekSatriadi/Tangible-Globe-AR/blob/main/CreatingTangibleGlobe.md)
 
 
-# Software Requirements
+# Software 
 
-Coming soon!
+- Broadcast tracking data using Vicon system: [ViconToHololensFilter](https://github.com/KadekSatriadi/Tangible-Globe-AR/tree/main/Software/ViconToHololensFilter)
+- HoloLens 2 application of the use cases: built coming soon!
 
 
 # Cite
