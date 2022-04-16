@@ -20,6 +20,10 @@ Coming soon!
 
 # Cite
 
+Satriadi, K.A., Smiley, J., Ens, B., Cordeil, M., Czauderna, T., Lee, B., Yang, Y., Dwyer, T., Jenny, B. 2021. Tangible Globes for Data Visualisation in Augmented Reality. In CHI ’22: ACM Conference on Human Factors in Computing Systems, April 30 - May 5 2022, New Orleans, USA
+
+
+
 ```
 @inproceedings{satriadi2022tangibleglobear,
 author = {Satriadi, Kadek Ananta and Smiley, Jim and Ens, Barrett and Cordeil, Maxime and Czauderna, Tobias and  Lee, Benjamin and Yang, Ying and Dwyer, Tim and Jenny, Bernhard},
