@@ -16,3 +16,21 @@ This document contains hardware requirements, instuctions, and software for recr
 # Software Requirements
 
 Coming soon!
+
+
+# Cite
+
+```
+@inproceedings{satriadi2022tangibleglobear,
+author = {Satriadi, Kadek Ananta and Smiley, Jim and Ens, Barrett and Cordeil, Maxime and Czauderna, Tobias and  Lee, Benjamin and Yang, Ying and Dwyer, Tim and Jenny, Bernhard},
+title = {Tangible Globes for Data Visualisation in Augmented Reality},
+year = {2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+doi = {https://doi.org/10.1145/3491102.3517715},
+booktitle = {Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems},
+location = {New Orleans, USA},
+series = {CHI '22}
+}
+
+```
