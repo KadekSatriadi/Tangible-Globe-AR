@@ -13,3 +13,6 @@ This document contains hardware requirements, instuctions, and software for recr
 - Electronic components as per the BOM on [Tangible Globe Assembly Intruction](https://github.com/KadekSatriadi/Tangible-Globe-AR/blob/main/CreatingTangibleGlobe.md)
 
 
+# Software Requirements
+
+Coming soon!
