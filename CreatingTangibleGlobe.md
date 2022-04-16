@@ -1,4 +1,4 @@
-## Creating Custom Tangible Globes
+## Tangible Globe Assembly Intruction
 
 3D print the three .stl files - recommended in a black PLA. The led mount object will need to be duplicated in your 3d printer program in order to print 10x items. For precision, keep in mind that various 3d printers may introduce unpredictable shrinkage, so minor trial and error resizing may be needed for tight tolerances. 
 
