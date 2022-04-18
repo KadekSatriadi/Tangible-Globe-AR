@@ -16,7 +16,7 @@ This document contains hardware requirements, instuctions, and software for recr
 # Software 
 
 - Broadcast tracking data using Vicon system: [ViconToHololensFilter](https://github.com/KadekSatriadi/Tangible-Globe-AR/tree/main/Software/ViconToHololensFilter)
-- HoloLens 2 application of the use cases: built coming soon!
+- HoloLens 2 application of the use cases: [Releases](https://github.com/KadekSatriadi/Tangible-Globe-AR/releases/)
 
 
 # Cite
