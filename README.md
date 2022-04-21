@@ -18,8 +18,12 @@ This document contains hardware requirements, instuctions, and software for recr
 - Broadcast tracking data using Vicon system: [ViconToHololensFilter](https://github.com/KadekSatriadi/Tangible-Globe-AR/tree/main/Software/ViconToHololensFilter)
 - HoloLens 2 application of the use cases: [Releases](https://github.com/KadekSatriadi/Tangible-Globe-AR/releases/)
 
+# Acknolwedgement
 
-# Cite
+- This research project is supported by the Postgraduate Publication Award funding from the Faculty of Information Technology, Monash University, Australia. We would like to thank all experts we interviewed, Dr René Sieber, Dr Mark A. Harrower, Mr. Jorge Wagner, and Dr Yalong Yang, for their participation and insightful feedback.
+- This project uses the [Viz-Globe](https://github.com/KadekSatriadi/Viz-Globe) plugin. 
+
+# Export citation
 
 Satriadi, K.A., Smiley, J., Ens, B., Cordeil, M., Czauderna, T., Lee, B., Yang, Y., Dwyer, T., Jenny, B. 2021. Tangible Globes for Data Visualisation in Augmented Reality. In CHI ’22: ACM Conference on Human Factors in Computing Systems, April 30 - May 5 2022, New Orleans, USA
 
