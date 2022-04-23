@@ -22,6 +22,7 @@ This document contains hardware requirements, instuctions, and software for recr
 
 - This research project is supported by the Postgraduate Publication Award funding from the Faculty of Information Technology, Monash University, Australia. We would like to thank all experts we interviewed, Dr René Sieber, Dr Mark A. Harrower, Mr. Jorge Wagner, and Dr Yalong Yang, for their participation and insightful feedback.
 - This project uses the [Viz-Globe](https://github.com/KadekSatriadi/Viz-Globe) plugin. 
+- OSC plugin: https://github.com/Iam1337/extOSC
 
 # Export citation
 
