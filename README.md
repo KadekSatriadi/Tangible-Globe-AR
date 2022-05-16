@@ -1,6 +1,6 @@
 # Tangible Globe AR
 
-This document contains hardware requirements, instuctions, and software for recreating the AR experience of the "Tangible Globes for Data Visualisation in Augmented Reality" research project. 
+This document contains hardware requirements, instuctions, and software for recreating the AR experience of the "Tangible Globes for Data Visualisation in Augmented Reality" research project. **This project is not actively maintained nor will it be extended in near future.** 
 
 ![](https://kadeksatriadi.com/wp-content/uploads/2022/03/tangible_globe_AR.png)
 
